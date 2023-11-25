@@ -1,6 +1,7 @@
-<div style="text-align:center">
-    <img src="https://github.com/buildrun-tech/buildrun-aws-lambda-java-starter-example/blob/main/images/lambda.png" alt="AWS Lambda Logo" width="200px"/>
-</div>
+<p align="center" width="100%">
+    <img width="15%" src="https://github.com/buildrun-tech/buildrun-aws-lambda-java-starter-example/blob/main/images/lambda.png"> 
+</p>
+
 
 <h3 align="center">
   Exemplo de AWS Lambda em Java para iniciantes
