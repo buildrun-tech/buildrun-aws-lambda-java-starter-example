@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="15%" src="https://github.com/buildrun-tech/buildrun-aws-lambda-java-starter-example/blob/main/images/lambda.png"> 
+    <img width="30%" src="https://github.com/buildrun-tech/buildrun-aws-lambda-java-starter-example/blob/main/images/lambda.png"> 
 </p>
 
 
