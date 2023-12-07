@@ -4,7 +4,7 @@
     <groupId>tech.buildrun</groupId>
     <artifactId>aws-lambda-java-starter-example</artifactId>
     <packaging>jar</packaging>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <name>aws-lambda-java-starter-example</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
